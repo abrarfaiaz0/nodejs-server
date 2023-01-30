@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abrarfaiaz0/nodejs-server/issues"
   },
-  "homepage": "https://github.com/abrarfaiaz0/nodejs-server#readme"
+  "homepage": "https://github.com/abrarfaiaz0/nodejs-server#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
