@@ -1,12 +1,4 @@
-.activeFriends {
-  color: rgb(81, 134, 0);
-  font-size: 20px;
-}
-.inactiveFriends {
-  color: red;
-  font-size: 20px;
-}
 body {
   margin: 30px;
-  background-color: rgb(213, 242, 255);
+  background-color: rgb(0, 174, 255);
 }
